@@ -12,8 +12,10 @@ Logistic Regression trained on the Heart Disease dataset.
 
 ## 🚀 Run Locally
 
-## My App Link - https://heart-disease-predictor-c6etxs8npuspqhvcqxf3dh.streamlit.app/
-
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## My App Link - https://heart-disease-predictor-c6etxs8npuspqhvcqxf3dh.streamlit.app/
+
