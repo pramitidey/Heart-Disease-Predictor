@@ -10,12 +10,15 @@ Logistic Regression trained on the Heart Disease dataset.
 - Prediction using a trained `.pkl` model
 - Clean and simple UI with Streamlit
 
+ 
+## My App Link - https://heart-disease-predictor-c6etxs8npuspqhvcqxf3dh.streamlit.app/
+
+
+
 ## 🚀 Run Locally
 
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
 
-
-## My App Link - https://heart-disease-predictor-c6etxs8npuspqhvcqxf3dh.streamlit.app/
 
